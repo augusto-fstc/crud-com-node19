@@ -1,3 +1,8 @@
+INSTITUTO FEDERAL DE ALAGOAS CAMPUS SÃO MIGUEL DOS CAMPOS
+DOCENTE: JALVES NICÁCIO
+DISCENTE(S): ERIC AUGUSTO PEREIRA PINTO e DANILA GRAZIELE DA SILVA SANTOS
+
+
 Baseado no tutorial https://www.luiztools.com.br/post/tutorial-de-crud-com-node-js-sequelize-e-sqlite/,
 crie um CRUD para uma dessas tabelas:
 - Aluno,
